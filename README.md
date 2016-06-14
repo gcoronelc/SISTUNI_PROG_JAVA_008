@@ -1,10 +1,10 @@
-![PROGRAMADOR JAVA](https://raw.githubusercontent.com/gcoronelc/SISTUNI_PROG_JAVA_008/master/prog008.jpg)
+![PROGRAMADOR JAVA](https://raw.githubusercontent.com/gcoronelc/SISTUNI_PROG_JAVA_008/master/prog008.1.jpg)
 
 # PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
-- Horario: MIERCOLES de 8 a 13 Horas
-- Inicio: 25-MAYO-2016
+- Horario: DOMINGO de 8 a 14 Horas
+- Inicio: 03-JULIO-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
@@ -36,10 +36,24 @@
 - Universidad Java: https://www.facebook.com/groups/universidadjava/
 - Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
 
+# RECURSOS DEL CURSO
+
+- Separata: http://gcoronelc.blogspot.pe/2016/06/separata-java-orientado-objetos.html
+- Lección 01: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
+- Lección 02: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
+- Lección 03: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
+- Lección 04: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
+- Lección 05: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
+- Lección 06: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-06-interfaces.html
+- Lección 07: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-07-arreglos.html
+- Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
+- Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
+
+
+
 # CLASE 01
 
-- Fecha: 25-MAYO-2016
-- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
-- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
+- Fecha: 03-JULIO-2016
+
 
 
