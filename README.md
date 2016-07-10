@@ -4,7 +4,7 @@
 
 - Lugar: SistemasUNI
 - Horario: DOMINGO de 8 a 14 Horas
-- Inicio: 03-JULIO-2016
+- Inicio: 10-JULIO-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
@@ -53,7 +53,24 @@
 
 # CLASE 01
 
-- Fecha: 03-JULIO-2016
+- Fecha: 10-JULIO-2016
+
+
+# CLASE 02
+
+- Fecha: 17-JULIO-2016
+
+
+# CLASE 03
+
+- Fecha: 31-JULIO-2016
+
+
+
+# CLASE 04
+
+- Fecha: 07-AGOSTO-2016
+
 
 
 
