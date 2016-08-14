@@ -63,13 +63,13 @@
 
 # CLASE 03
 
-- Fecha: 31-JULIO-2016
+- Fecha: 07-AGOSTO-2016
 
 
 
 # CLASE 04
 
-- Fecha: 07-AGOSTO-2016
+- Fecha: 14-AGOSTO-2016
 
 
 
